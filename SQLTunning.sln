@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLTunning", "SQLTunning\SQLTunning.csproj", "{D6801E9D-4433-4ECD-85F8-215AF421988D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SQLTunning", "SQLTunning\SQLTunning.csproj", "{D6801E9D-4433-4ECD-85F8-215AF421988D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLTunning.Library", "SQLTunning.Library\SQLTunning.Library.csproj", "{96CE47F2-8706-44BA-B80D-52F1E1CCAC23}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D6801E9D-4433-4ECD-85F8-215AF421988D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6801E9D-4433-4ECD-85F8-215AF421988D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6801E9D-4433-4ECD-85F8-215AF421988D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96CE47F2-8706-44BA-B80D-52F1E1CCAC23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96CE47F2-8706-44BA-B80D-52F1E1CCAC23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96CE47F2-8706-44BA-B80D-52F1E1CCAC23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96CE47F2-8706-44BA-B80D-52F1E1CCAC23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
